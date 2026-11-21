@@ -30,5 +30,4 @@ Thank you again for your interest and patience. We hope this overview helps you 
  
 Kind regards, 
 ------------ 
-Haitong Zhe Sun, PhD
-National University of Singapore
+Haitong Zhe Sun, PhD (National University of Singapore)
