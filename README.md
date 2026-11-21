@@ -30,9 +30,5 @@ Thank you again for your interest and patience. We hope this overview helps you 
  
 Kind regards, 
 ------------ 
-Haitong Zhe Sun, PhD | Associate Professor of Environmetrics and Environmental Epidemiology
-Senior Planetary Science Lead
-Centre for Sustainable Medicine (CoSM) (Primary)
-Department of Paediatrics, Yong Loo Lin School of Medicine (Primary)
-Saw Swee Hock School of Public Health (Adjunct)
+Haitong Zhe Sun, PhD
 National University of Singapore
